@@ -1,0 +1,30 @@
+{
+  "name": "tty-detect",
+  "version": "1.0.0",
+  "description": "Detect text size on terminal",
+  "main": "src/tty-detect.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiu8310/tty-detect.git"
+  },
+  "keywords": [
+    "tty-detect",
+    "cli-detect",
+    "tty",
+    "detect",
+    "text",
+    "cli",
+    "words",
+    "wrap"
+  ],
+  "author": "Mora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qiu8310/tty-detect/issues"
+  },
+  "homepage": "https://github.com/qiu8310/tty-detect",
+  "dependencies": {
+    "async": "^1.4.2",
+    "tty-size": "^1.0.0"
+  }
+}
