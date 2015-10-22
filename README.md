@@ -2,6 +2,12 @@
 
 Use [ANSI ESCAPE](https://en.wikipedia.org/wiki/ANSI_escape_code) detect terminal text size.
 
+
+## TODO
+
+[ ] Mac 原生的 terminal 上执行 detechEach 时，如果字符串是 'Z͑ͫ̓ͪ̂ͫ̽͏̴̙̤̞͉͚̯̞̠͍A̴̵̜̰͔ͫ͗͢L̠ͨͧͩ͘G̴̻͈͍͔̹̑͗̎̅͛́Ǫ̵̹̻̝̳͂̌̌͘!͖̬̰̙̗̿̋ͥͥ̂ͣ̐́́͜͞' 时就会出错【BUG】
+
+
 ## API
 
 * detectShortText(text, callback)
